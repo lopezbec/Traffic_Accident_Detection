@@ -24,6 +24,8 @@ Click the link bellow to run the [Yolov3]( https://github.com/ultralytics/yolov3
     <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Yolov3_DeepSort/GPU/Implementation_Object_tracker.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Yolov3 + DeepSort in Google Colab</a>
   </td>
 </table>
+
+
 <br></br>
 
 ## Support and collaboration
