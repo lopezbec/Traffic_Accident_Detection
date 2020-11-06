@@ -8,7 +8,9 @@ Although the existing 9-1-1 System allows detecting accidents and providing medi
 
 The slides that provide an overview of the project and its objectives can be found [HERE](https://sites.lafayette.edu/lopezbec/files/2020/04/20191208-Propuesta-de-Deteccion-de-Accidentes-FONDOCYT-CL-AA-VC-RV_v1.pdf)
 
-You can watch a video of the implementation of an object detection algorithm on video footage of accidents from the Dominican Republic: <span style="color:red">Viewer discretion is advised</span>.( [videos](https://www.youtube.com/watch?v=MZTDC0jko1E&feature=youtu.be)) 
+You can watch a video of the implementation of an object detection algorithm on video footage of accidents from the Dominican Republic: <p> <span style="color:red"><em>Viewer discretion is advised</em> text</span>.</p>.( [videos](https://www.youtube.com/watch?v=MZTDC0jko1E&feature=youtu.be)) 
+
+
 
 
 ## Algorithms implementations
