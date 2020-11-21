@@ -8,7 +8,7 @@ import cv2
 import argparse
 
 # Root directory of the project
-ROOT_DIR = os.path.abspath("../../../../")
+ROOT_DIR = os.path.abspath("../../")
 print(ROOT_DIR)
 
 # Import Mask RCNN
