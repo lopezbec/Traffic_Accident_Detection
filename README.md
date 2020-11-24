@@ -25,6 +25,15 @@ Click the link bellow to run the [Yolov3]( https://github.com/ultralytics/yolov3
   </td>
 </table>
 
+### MaskRCNN: 
+
+Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_RCNN) Object detection directly in Google Collab (no coding needed, just clicking and runing) 
+
+<table align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/MaskRCNN-ODS/video_detection_run.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run MaskRCNN in Google Colab</a>
+  </td>
+</table>
 
 <br></br>
 
