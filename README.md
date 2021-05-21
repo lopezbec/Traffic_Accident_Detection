@@ -13,7 +13,9 @@ You can watch a video of the implementation of an object detection algorithm on 
 
 
 
-## Algorithms implementations
+#Algorithms and Models implementation
+
+## Object Detection and Object Tracking
 
 ### Yolov3 with Deepsort: 
 
@@ -33,6 +35,17 @@ Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_R
 <table align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/MaskRCNN-ODS/video_detection_run.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run MaskRCNN in Google Colab</a>
+  </td>
+</table>
+<br></br>
+
+## Anomaly Detection
+
+Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffic Videos Implementation](https://github.com/kevaldoshi17/NVIDIA_AICITY) for anomaly detectiondirectly in Google Collab (no coding needed, just clicking and runing) 
+
+<table align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fast_Unsupervised_Anomaly_Detection_Traffic_Videos_Implementation.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run MaskRCNN in Google Colab</a>
   </td>
 </table>
 <br></br>
