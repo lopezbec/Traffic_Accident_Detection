@@ -41,6 +41,7 @@ Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_R
 
 ## Anomaly Detection
 
+### Fast Unsupervised Anomaly Detection for Traffic Videos Implementation (2nd Place AI City Challenge 2020)
 Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffic Videos Implementation](https://github.com/kevaldoshi17/NVIDIA_AICITY) for anomaly detectiondirectly in Google Collab (no coding needed, just clicking and runing) 
 
 <table align="left">
