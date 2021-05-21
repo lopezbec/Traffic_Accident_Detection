@@ -46,7 +46,7 @@ Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffi
 
 <table align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fast_Unsupervised_Anomaly_Detection_Traffic_Videos_Implementation.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run MaskRCNN in Google Colab</a>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fast_Unsupervised_Anomaly_Detection_Traffic_Videos_Implementation.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
   </td>
 </table>
 <br></br>
