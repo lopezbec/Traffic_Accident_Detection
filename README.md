@@ -13,12 +13,11 @@ You can watch a video of the implementation of an object detection algorithm on 
 
 
 
-#Algorithms and Models implementation
-
+# Algorithms and Models implementation
+___________________________________________________
 ## Object Detection and Object Tracking
 
 ### Yolov3 with Deepsort: 
-
 Click the link bellow to run the [Yolov3]( https://github.com/ultralytics/yolov3) Object detection with [DeepSort]( https://github.com/nwojke/deep_sort)  Object Tracking directly in Google Collab (no coding needed, just clicking and runing) 
 
 <table align="left">
@@ -29,7 +28,6 @@ Click the link bellow to run the [Yolov3]( https://github.com/ultralytics/yolov3
 <br></br>
 
 ### MaskRCNN: 
-
 Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_RCNN) Object detection directly in Google Collab (no coding needed, just clicking and runing) 
 
 <table align="left">
@@ -38,6 +36,8 @@ Click the link bellow to run the [MaskRCNN](https://github.com/matterport/Mask_R
   </td>
 </table>
 <br></br>
+
+___________________________________________________
 
 ## Anomaly Detection
 
@@ -50,6 +50,8 @@ Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffi
   </td>
 </table>
 <br></br>
+
+___________________________________________________
 
 ## Support and collaboration
 
