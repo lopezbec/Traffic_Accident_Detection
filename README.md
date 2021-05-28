@@ -51,6 +51,16 @@ Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffi
 </table>
 <br></br>
 
+### Fractional Data Distillation Model for Anomaly Detection Traffic Videos (3rd Place AI City Challenge 2020)
+Click the link bellow to see the code implementation for the [Fractional Data Distillation Model for Anomaly Detection Traffic Videos]https://github.com/cetcvlab/AICity-2020-CETCVLAB) for anomaly detectiondirectly. Due to the computational complexity of this model, it cannot be fully run in free version of Google Colab (see notes)
+
+<table align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fractional_Data_Distillation_Model_for_Anomaly_Detection_Traffic_Videos.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
+  </td>
+</table>
+<br></br>
+
 ___________________________________________________
 
 ## Support and collaboration
