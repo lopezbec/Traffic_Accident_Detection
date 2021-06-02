@@ -56,7 +56,7 @@ Click the link bellow to see the code implementation for the [Fractional Data Di
 
 <table align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fractional_Data_Distillation_Model_for_Anomaly_Detection_Traffic_Videos.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fractional_Data_Distillation_Model_for_Anomaly_Detection_Traffic_Videos.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fractional Data Distillation Model for Anomaly Detection Traffic Videos in Google Colab</a>
   </td>
 </table>
 <br></br>
@@ -68,7 +68,7 @@ Click the link bellow to see the code implementation for the [iTASK - Intelligen
 
 <table align="left">
   <td>
-    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/iTASK_Intelligent_Traffic_Analysis_Software_Kit_Anomaly_Detection.ipynb#scrollTo=eRdy5zbjJVtD"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/iTASK_Intelligent_Traffic_Analysis_Software_Kit_Anomaly_Detection.ipynb#scrollTo=eRdy5zbjJVtD"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run iTASK - Intelligent Traffic Analysis Software Kit-Anomaly Detections in Google Colab</a>
   </td>
 </table>
 <br></br>
