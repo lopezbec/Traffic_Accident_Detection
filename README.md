@@ -52,11 +52,23 @@ Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffi
 <br></br>
 
 ### Fractional Data Distillation Model for Anomaly Detection Traffic Videos (3rd Place AI City Challenge 2020)
-Click the link bellow to see the code implementation for the [Fractional Data Distillation Model for Anomaly Detection Traffic Videos]https://github.com/cetcvlab/AICity-2020-CETCVLAB) for anomaly detectiondirectly. Due to the computational complexity of this model, it cannot be fully run in free version of Google Colab (see notes)
+Click the link bellow to see the code implementation for the [Fractional Data Distillation Model for Anomaly Detection Traffic Videos]https://github.com/cetcvlab/AICity-2020-CETCVLAB) for anomaly detection directly. Due to the computational complexity of this model, it cannot be fully run in free version of Google Colab (see notes)
 
 <table align="left">
   <td>
     <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/Fractional_Data_Distillation_Model_for_Anomaly_Detection_Traffic_Videos.ipynb"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
+  </td>
+</table>
+<br></br>
+
+
+
+### iTASK - Intelligent Traffic Analysis Software Kit-Anomaly Detections  (AI City Challenge 2020)
+Click the link bellow to see the code implementation for the [iTASK - Intelligent Traffic Analysis Software Kit] (https://github.com/selab-hcmus/AI_City_2020) for anomaly detection directly. Due to the models code limitations, it cannot be used with videos that are not part of the AI City Challenge (see notes)
+
+<table align="left">
+  <td>
+    <a target="_blank" href="https://colab.research.google.com/github/lopezbec/Traffic_Accident_Detection/blob/master/Anomaly_Detection_Models/iTASK_Intelligent_Traffic_Analysis_Software_Kit_Anomaly_Detection.ipynb#scrollTo=eRdy5zbjJVtD"><img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run Fast Unsupervised Anomaly Detection for Traffic Videos in Google Colab</a>
   </td>
 </table>
 <br></br>
