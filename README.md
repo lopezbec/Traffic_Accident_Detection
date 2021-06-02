@@ -52,7 +52,7 @@ Click the link bellow to run the [Fast Unsupervised Anomaly Detection for Traffi
 <br></br>
 
 ### Fractional Data Distillation Model for Anomaly Detection Traffic Videos (3rd Place AI City Challenge 2020)
-Click the link bellow to see the code implementation for the [Fractional Data Distillation Model for Anomaly Detection Traffic Videos]https://github.com/cetcvlab/AICity-2020-CETCVLAB) for anomaly detection directly. Due to the computational complexity of this model, it cannot be fully run in free version of Google Colab (see notes)
+Click the link bellow to see the code implementation for the [Fractional Data Distillation Model for Anomaly Detection Traffic Videos](https://github.com/cetcvlab/AICity-2020-CETCVLAB) for anomaly detection directly. Due to the computational complexity of this model, it cannot be fully run in free version of Google Colab (see notes)
 
 <table align="left">
   <td>
@@ -64,7 +64,7 @@ Click the link bellow to see the code implementation for the [Fractional Data Di
 
 
 ### iTASK - Intelligent Traffic Analysis Software Kit-Anomaly Detections  (AI City Challenge 2020)
-Click the link bellow to see the code implementation for the [iTASK - Intelligent Traffic Analysis Software Kit] (https://github.com/selab-hcmus/AI_City_2020) for anomaly detection directly. Due to the models code limitations, it cannot be used with videos that are not part of the AI City Challenge (see notes)
+Click the link bellow to see the code implementation for the [iTASK - Intelligent Traffic Analysis Software Kit](https://github.com/selab-hcmus/AI_City_2020) for anomaly detection directly. Due to the models code limitations, it cannot be used with videos that are not part of the AI City Challenge (see notes)
 
 <table align="left">
   <td>
