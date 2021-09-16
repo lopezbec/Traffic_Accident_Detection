@@ -74,7 +74,12 @@ Click the link bellow to see the code implementation for the [iTASK - Intelligen
 <br></br>
 
 ___________________________________________________
+## References of Project Publications
 
+1.	Naphade, M., Wang, S., Anastasiu, D.C., Tang, Z., Chang, M.C., Yang, X., Yao, Y., Zheng, L., Chakraborty, P., Lopez, C.E. and Sharma, A., “The 5th AI City Challenge”. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Virtual Conference, June 19-25, ([PDF](https://openaccess.thecvf.com/content/CVPR2021W/AICity/html/Naphade_The_5th_AI_City_Challenge_CVPRW_2021_paper.html))
+
+2.	Vasu, M.,  Lopez, C. E.,  “Vehicle-counting with automatic Region-of-Interest and Driving-Trajectory detection” LatinXAI Workshops at Int. Conference on Machine Learning, 2021.(see [PDF](https://research.latinxinai.org/papers/icml/2021/pdf/paper_33.pdf) and [presentation](https://slideslive.com/38962858/vehiclecounting-with-automatic-regionofinterest-and-drivingtrajectory-detection?ref=account-folder-87716-folders))
+	
 ## Support and collaboration
 
 This project is supported by the National Fund for Innovation and Scientific and Technological Development (FONDOCyT for its acronym in Spanish) from the  Ministry of Higher Education, Science and Technology of the Dominican Republic (FONDOCYT 2018-19-3A1-107). The project is in collaboration with the Universidad Autonoma de Santo Domingo (UASD).
