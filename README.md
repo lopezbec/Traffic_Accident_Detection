@@ -74,6 +74,20 @@ Click the link bellow to see the code implementation for the [iTASK - Intelligen
 <br></br>
 
 ___________________________________________________
+
+## Traffic accident simulator for generating synthetic traffic video data
+
+Given the limited available of traffic footage of complex urban environment that contain traffic accidents, the team is exporting the use of a traffic accident simulator to generate a large synthetic dataset of video that contain traffic accidents. This idea still in development as you can see from the video below. The team is working on making the simulation more realistic, by improving the physics and adding more object to the simulations. 
+
+### https://youtu.be/kYohiQdOrSo
+
+
+<div class="figure">
+<img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/Traffic_Simulation.jpg" width="90%" />
+</div>
+
+
+___________________________________________________
 ## References of Project Publications
 
 1.	Naphade, M., Wang, S., Anastasiu, D.C., Tang, Z., Chang, M.C., Yang, X., Yao, Y., Zheng, L., Chakraborty, P., Lopez, C.E. and Sharma, A., “The 5th AI City Challenge”. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, Virtual Conference, June 19-25, ([PDF](https://openaccess.thecvf.com/content/CVPR2021W/AICity/html/Naphade_The_5th_AI_City_Challenge_CVPRW_2021_paper.html))
