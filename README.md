@@ -75,7 +75,7 @@ Click the link bellow to see the code implementation for the [iTASK - Intelligen
 
 ___________________________________________________
 
-## Traffic accident simulator for generating synthetic traffic video data
+# Traffic accident simulator for generating synthetic traffic video data
 
 Given the limited available of traffic footage of complex urban environment that contain traffic accidents, the team is exporting the use of a traffic accident simulator to generate a large synthetic dataset of video that contain traffic accidents. This idea still in development as you can see from the video below. The team is working on making the simulation more realistic, by improving the physics and adding more object to the simulations. 
 
