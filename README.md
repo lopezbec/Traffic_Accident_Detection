@@ -83,6 +83,11 @@ Given the limited available of traffic footage of complex urban environment that
 
 ### https://youtu.be/kYohiQdOrSo
 
+### https://youtu.be/7y4G7gpl96M
+
+### https://youtu.be/ViFSd-Ln0t0
+
+### https://youtu.be/VZTt7QarNDc
 
 <div class="figure">
 <img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/Traffic_Simulation.jpg" width="90%" />
