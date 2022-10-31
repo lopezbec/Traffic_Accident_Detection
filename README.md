@@ -90,7 +90,7 @@ Given the limited available of traffic footage of complex urban environment that
 
 
 <div class="figure">
-<img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/Traffic_Simulation.jpg" width="90%" />
+<img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/simulationv4.jpg" width="90%" />
 </div>
 
 
