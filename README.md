@@ -86,6 +86,17 @@ Given the limited available of traffic footage of complex urban environment that
 <img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/Traffic_Simulation.jpg" width="90%" />
 </div>
 
+## Latest version 
+
+
+<div class="figure">
+<img src="https://github.com/lopezbec/Traffic_Accident_Detection/blob/master/Traffic_Simulation.jpg" width="90%" />
+</div>
+
+
+#### https://youtu.be/TMOxRQqsbgA
+#### https://youtu.be/U1jcL2GEOYQ
+
 
 ___________________________________________________
 ## References of Project Publications
