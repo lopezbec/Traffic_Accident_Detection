@@ -77,6 +77,8 @@ ___________________________________________________
 
 
 # Traffic accident simulator for generating synthetic traffic video data
+
+### GitHub: https://github.com/lopezbec/Accident-Simulator-for-Traffic-Accident-Detection
 ___________________________________________________
 
 Given the limited available of traffic footage of complex urban environment that contain traffic accidents, the team is exporting the use of a traffic accident simulator to generate a large synthetic dataset of video that contain traffic accidents. This idea still in development as you can see from the video below. The team is working on making the simulation more realistic, by improving the physics and adding more object to the simulations. 
