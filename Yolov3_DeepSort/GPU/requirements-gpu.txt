@@ -1,6 +1,10 @@
 tensorflow-gpu==2.1.0
-numpy
+numpy==1.19.5
 opencv-python==4.1.1.26
+h5py
+typing-extensions
+matplotlib_inline
+IPython
 lxml
 tqdm
 seaborn
